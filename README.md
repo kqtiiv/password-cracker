@@ -1,1 +1,1 @@
-# password-generator
+# password-cracker
